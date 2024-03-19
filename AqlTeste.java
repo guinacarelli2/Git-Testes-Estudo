@@ -6,7 +6,7 @@ public class AqlTeste {
 
         String nome;
 
-        System.out.println("Digite seu nome:");
+        System.out.println("Digite o seu nome:");
         nome = input.nextLine();
 
         System.out.println("Seu nome é "+nome+" .");
